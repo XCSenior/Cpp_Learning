@@ -6,6 +6,7 @@ using namespace std;
 */
 int main()
 {
+	// Êä³öhello world
 	cout << "Hello World!" << endl;
 	// µÈ´ı¼üÅÌÊäÈë
 	cin.get();
